@@ -1,4 +1,4 @@
-# TransparentTextRenderer (TTR) v1.4
+# TransparentTextRuntime (TTR) v1.4
 
 ![TTR Banner](https://img.shields.io/badge/TTR-v1.4-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
@@ -145,8 +145,6 @@ You can customize TTR behavior by defining macros before including the header.
 
 ## License
 
-MIT License
-
 Copyright (c) 2026 YourHandle
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -166,11 +164,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## Author
-
-[github.com/yourhandle](https://github.com/yourhandle)
-
-For detailed documentation, see `README.md` in the repository.
