@@ -1,8 +1,8 @@
-# TransparentTextRuntime (TTR) v1.4 — ULTRA GODLIKE EDITION
+# TransparentTextRuntime (TTR) v1.4
 
 [](https://t.me/+M8d0qE5RuQFhZTI8)
 [](https://t.me/+M8d0qE5RuQFhZTI8)
-
+![TTR Banner](https://img.shields.io/badge/TTR-v1.4-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
 ## Overview
 
 TTR v1.4 is a high-performance, compile-time string obfuscation and stealth UI library designed for C++20. It eliminates plaintext strings from your binary and ensures that sensitive data remains in memory only for the duration of a single function call.
